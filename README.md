@@ -41,13 +41,13 @@ Dataset covered:
 📌 **Screenshots**  
 
 ### Overview Page  
-![Overview](images/overview.jpg)  
+![Overview](images/Overview.png)  
 
 ### Performance Page  
-![Performance](images/performance.jpg)  
+![Performance](images/Performance.png)  
 
 ### Insights Page  
-![Insights](images/insights.jpg)  
+![Insights](images/Insights.png)  
 
 ---
 
