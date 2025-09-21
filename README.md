@@ -33,8 +33,8 @@ Dataset covered:
 🚀 **Deliverables**  
 - 📊 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5NGQwZjItOGRmOS00YjE3LTljMDMtNmU0YzFkNmMxMTc4IiwidCI6IjA3NTY1ZTVjLTU2ODEtNDk5OC1hN2RjLTU1OGZiM2U2OGU3NSJ9)  
 - 📄 [LinkedIn Post](https://www.linkedin.com/posts/aderibigbe-adeola_fp20analytics-fp20analyticschallenge30-powerbi-activity-7375114317035102208-0vJP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOFfMQBTxQZJTlPUmUtOmFAzu0pBMovHug)  
-- ✍️ [Medium Article](SOON)  
-- 🐦 [Twitter Post](SOON)  
+- ✍️ [Medium Article](SOON) - (SOON)
+- 🐦 [Twitter Post](SOON) - (SOON)
 
 ---
 
